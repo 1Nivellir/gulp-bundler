@@ -1,4 +1,4 @@
-# Gulp - сборка MaxGraph
+# Gulp - сборка Nivellir
 
 > Используется Gulp 4
 
